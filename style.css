@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+.imagem{
+    background-image: ;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 100px 50px;
+}
+
+.box {
+  width: 100px;
+  height: 30px;
+  margin: 10px 30px;
+  text-align: center;
+}
+
+.blue {
+  font-size: larger;
+  background-color: blue;
+  border: 5px solid red;
+}
+
+.red {
+  font-size: larger;
+  background-color: red;
+  border: 5px solid green;
+}
+
+.green {
+  font-size: larger;
+  background-color: green;
+  border: 5px solid blue;
+}
